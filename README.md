@@ -31,14 +31,14 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![gifproject4](https://github.com/user-attachments/assets/95290e56-e635-4a80-9ba8-4406e9acf082)
+
 
 
 GIF created with ezgif.com 
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+
+![gifproject4](https://github.com/user-attachments/assets/c81fb152-1fb6-480c-a411-70916d09511a)
+
 
 ## Notes
 
